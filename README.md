@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Samyak Borkar</h1>
+<h1 align="center">Hi 👋, I'm <span style="color: #FF004f;">Samyak</span> Borkar</h1>
 <h3 align="center">A Passionate Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samyakborkar&label=Profile%20views&color=0e75b6&style=flat" alt="samyakborkar" /> </p>
