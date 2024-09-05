@@ -12,6 +12,8 @@
 <a href="https://www.linkedin.com/in/samyak-borkar-2a150528a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samyak borkar" height="30" width="40" /></a>
 <a href="https://www.instagram.com/samyak_borkar__/?next=%2F" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_samyak_borkar" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/samyakborkar43" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="samyakborkar43" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Samyak_Borkar96/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="samyak_borkar96" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/samyakbopf7y/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="samyakbopf7y" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
