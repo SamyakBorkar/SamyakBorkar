@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="190" viewBox="0 0 420 190" role="img" aria-label="Eco-APT">
+<style>
+  .t { font: 600 18px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #70a5fd; }
+  .h { font: 600 15px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #c0caf5; }
+  .s { font: 400 13px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #c0caf5; }
+  .m { font: 400 12px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #7a82a8; }
+  .b { font: 700 26px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; }
+  .chip { font: 600 11px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; }
+</style>
+<rect x="0.5" y="0.5" width="419" height="189" rx="10" fill="#1a1b27" stroke="#2a2e42"/>
+<text x="22" y="36" class="t">Eco-APT</text>
+<g transform="translate(298,20)"><rect x="0" y="0" width="100" height="20" rx="10" fill="#38bdae" fill-opacity=".15" stroke="#38bdae" stroke-opacity=".5"/><text x="50" y="14" text-anchor="middle" class="chip" fill="#38bdae">● in progress</text></g>
+<text x="22" y="62" class="s">Smarter Go CLI package manager for Debian-based Linux:</text>
+<text x="22" y="81" class="s">better dependency resolution, P2P dependency sharing</text>
+<text x="22" y="100" class="s">and pre-install storage checks (−25% download time).</text>
+<rect x="22" y="126" width="27" height="20" rx="10" fill="#00ADD8" fill-opacity=".15" stroke="#00ADD8" stroke-opacity=".5"/><text x="36" y="140" text-anchor="middle" class="chip" fill="#00ADD8">Go</text><rect x="55" y="126" width="47" height="20" rx="10" fill="#e0af68" fill-opacity=".15" stroke="#e0af68" stroke-opacity=".5"/><text x="79" y="140" text-anchor="middle" class="chip" fill="#e0af68">Linux</text><rect x="108" y="126" width="34" height="20" rx="10" fill="#38bdae" fill-opacity=".15" stroke="#38bdae" stroke-opacity=".5"/><text x="125" y="140" text-anchor="middle" class="chip" fill="#38bdae">P2P</text><rect x="148" y="126" width="34" height="20" rx="10" fill="#bf91f3" fill-opacity=".15" stroke="#bf91f3" stroke-opacity=".5"/><text x="165" y="140" text-anchor="middle" class="chip" fill="#bf91f3">CLI</text>
+<clipPath id="r"><rect x="22" y="158" width="376" height="6" rx="3"/></clipPath><g clip-path="url(#r)">
+<rect x="22.0" y="158" width="376.0" height="6" fill="#00ADD8"/>
+</g>
+<circle cx="27" cy="178" r="5" fill="#00ADD8"/><text x="38" y="182" class="m">Go 100%</text>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="150" viewBox="0 0 840 150" role="img" aria-label="Achievements and leadership">
+<style>
+  .t { font: 600 18px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #70a5fd; }
+  .h { font: 600 15px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #c0caf5; }
+  .s { font: 400 13px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #c0caf5; }
+  .m { font: 400 12px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #7a82a8; }
+  .b { font: 700 26px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; }
+  .chip { font: 600 11px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; }
+</style>
+<rect x="0.5" y="0.5" width="839" height="149" rx="10" fill="#1a1b27" stroke="#2a2e42"/>
+<text x="28" y="34" class="h">Coordinator, Rmageddon 2024–25 · SGGSIE&amp;T</text>
+<text x="812" y="34" text-anchor="end" class="m">hosted Robowars, a first for the Marathwada region</text>
+<rect x="28" y="50" width="187" height="78" rx="8" fill="#232539"/><rect x="28" y="50" width="4" height="78" rx="2" fill="#38bdae"/><text x="46" y="84" class="b" style="fill:#38bdae">1,500+</text><text x="46" y="104" class="s">participants hosted</text><text x="46" y="120" class="m">Rmageddon 2024–25</text>
+<rect x="227" y="50" width="187" height="78" rx="8" fill="#232539"/><rect x="227" y="50" width="4" height="78" rx="2" fill="#70a5fd"/><text x="245" y="84" class="b" style="fill:#70a5fd">100+</text><text x="245" y="104" class="s">students led across</text><text x="245" y="120" class="m">6+ committees</text>
+<rect x="426" y="50" width="187" height="78" rx="8" fill="#232539"/><rect x="426" y="50" width="4" height="78" rx="2" fill="#e0af68"/><text x="444" y="84" class="b" style="fill:#e0af68">500+</text><text x="444" y="104" class="s">DSA problems solved</text><text x="444" y="120" class="m">LeetCode · GFG · CF</text>
+<rect x="625" y="50" width="187" height="78" rx="8" fill="#232539"/><rect x="625" y="50" width="4" height="78" rx="2" fill="#bf91f3"/><text x="643" y="84" class="b" style="fill:#bf91f3">SIH</text><text x="643" y="104" class="s">Smart India Hackathon</text><text x="643" y="120" class="m">cleared internal round</text>
+</svg>

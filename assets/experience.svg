@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="312" viewBox="0 0 840 312" role="img" aria-label="Experience at Credibl">
+<style>
+  .t { font: 600 18px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #70a5fd; }
+  .h { font: 600 15px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #c0caf5; }
+  .s { font: 400 13px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #c0caf5; }
+  .m { font: 400 12px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #7a82a8; }
+  .b { font: 700 26px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; }
+  .chip { font: 600 11px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; }
+</style>
+<rect x="0.5" y="0.5" width="839" height="311" rx="10" fill="#1a1b27" stroke="#2a2e42"/>
+<text x="28" y="40" class="t">Credibl</text>
+<text x="28" y="60" class="m">Pune, India</text>
+<line x1="36" y1="100" x2="36" y2="201" stroke="#2a2e42" stroke-width="2"/>
+<g transform="translate(739,26)"><rect x="0" y="0" width="73" height="20" rx="10" fill="#38bdae" fill-opacity=".15" stroke="#38bdae" stroke-opacity=".5"/><text x="37" y="14" text-anchor="middle" class="chip" fill="#38bdae">REST APIs</text></g>
+<g transform="translate(653,26)"><rect x="0" y="0" width="80" height="20" rx="10" fill="#4f8fd6" fill-opacity=".15" stroke="#4f8fd6" stroke-opacity=".5"/><text x="40" y="14" text-anchor="middle" class="chip" fill="#4f8fd6">PostgreSQL</text></g>
+<g transform="translate(527,26)"><rect x="0" y="0" width="120" height="20" rx="10" fill="#FD4F00" fill-opacity=".15" stroke="#FD4F00" stroke-opacity=".5"/><text x="60" y="14" text-anchor="middle" class="chip" fill="#FD4F00">Phoenix LiveView</text></g>
+<g transform="translate(467,26)"><rect x="0" y="0" width="54" height="20" rx="10" fill="#bf91f3" fill-opacity=".15" stroke="#bf91f3" stroke-opacity=".5"/><text x="27" y="14" text-anchor="middle" class="chip" fill="#bf91f3">Elixir</text></g>
+<circle cx="36" cy="96" r="7" fill="#1a1b27" stroke="#38bdae" stroke-width="3"/>
+<text x="58" y="101" class="h">Software Engineer</text><text x="812" y="101" text-anchor="end" class="m">Jul 2026 – Present</text>
+<g transform="translate(214,86)"><rect x="0" y="0" width="73" height="20" rx="10" fill="#38bdae" fill-opacity=".15" stroke="#38bdae" stroke-opacity=".5"/><text x="37" y="14" text-anchor="middle" class="chip" fill="#38bdae">● current</text></g>
+<text x="58" y="126" class="s">Own the core request generation engine (Elixir + PostgreSQL) for every resource</text>
+<text x="58" y="145" class="s">type; replaced on-the-fly generation and resolved a production outage it caused.</text>
+<text x="58" y="164" class="s">Built user management (roles, access, lifecycle) and reworked CSM onboarding tools.</text>
+<circle cx="36" cy="201" r="7" fill="#1a1b27" stroke="#70a5fd" stroke-width="3"/>
+<text x="58" y="206" class="h">Software Engineer Intern</text><text x="812" y="206" text-anchor="end" class="m">Jan 2026 – Jun 2026</text>
+<text x="58" y="231" class="s">Created a real-time Live Warehouse Manager with Phoenix LiveView dashboards,</text>
+<text x="58" y="250" class="s">cutting manual inventory tracking effort by 30%; integrated 5+ REST APIs.</text>
+<text x="58" y="269" class="s">Learned Elixir and shipped a production feature in 2 weeks → full-time offer.</text>
+</svg>

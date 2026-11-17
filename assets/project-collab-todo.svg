@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="190" viewBox="0 0 420 190" role="img" aria-label="Collaborative Todo · LiveView">
+<style>
+  .t { font: 600 18px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #70a5fd; }
+  .h { font: 600 15px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #c0caf5; }
+  .s { font: 400 13px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #c0caf5; }
+  .m { font: 400 12px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #7a82a8; }
+  .b { font: 700 26px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; }
+  .chip { font: 600 11px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; }
+</style>
+<rect x="0.5" y="0.5" width="419" height="189" rx="10" fill="#1a1b27" stroke="#2a2e42"/>
+<text x="22" y="36" class="t">Collaborative Todo · LiveView</text>
+<text x="22" y="62" class="s">Real-time multi-user task manager: updates sync</text>
+<text x="22" y="81" class="s">instantly over WebSockets with Phoenix LiveView,</text>
+<text x="22" y="100" class="s">persisted in PostgreSQL via Ecto.</text>
+<rect x="22" y="126" width="54" height="20" rx="10" fill="#bf91f3" fill-opacity=".15" stroke="#bf91f3" stroke-opacity=".5"/><text x="49" y="140" text-anchor="middle" class="chip" fill="#bf91f3">Elixir</text><rect x="82" y="126" width="60" height="20" rx="10" fill="#FD4F00" fill-opacity=".15" stroke="#FD4F00" stroke-opacity=".5"/><text x="112" y="140" text-anchor="middle" class="chip" fill="#FD4F00">Phoenix</text><rect x="148" y="126" width="80" height="20" rx="10" fill="#4f8fd6" fill-opacity=".15" stroke="#4f8fd6" stroke-opacity=".5"/><text x="188" y="140" text-anchor="middle" class="chip" fill="#4f8fd6">PostgreSQL</text>
+<clipPath id="r"><rect x="22" y="158" width="376" height="6" rx="3"/></clipPath><g clip-path="url(#r)">
+<rect x="22.0" y="158" width="293.5" height="6" fill="#6e4a7e"/>
+<rect x="315.5" y="158" width="55.9" height="6" fill="#e34c26"/>
+<rect x="371.4" y="158" width="15.1" height="6" fill="#663399"/>
+<rect x="386.5" y="158" width="11.5" height="6" fill="#f1e05a"/>
+</g>
+<circle cx="27" cy="178" r="5" fill="#6e4a7e"/><text x="38" y="182" class="m">Elixir 78%</text>
+</svg>

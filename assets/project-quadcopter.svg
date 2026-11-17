@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="190" viewBox="0 0 420 190" role="img" aria-label="QuadCopter">
+<style>
+  .t { font: 600 18px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #70a5fd; }
+  .h { font: 600 15px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #c0caf5; }
+  .s { font: 400 13px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #c0caf5; }
+  .m { font: 400 12px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #7a82a8; }
+  .b { font: 700 26px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; }
+  .chip { font: 600 11px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; }
+</style>
+<rect x="0.5" y="0.5" width="419" height="189" rx="10" fill="#1a1b27" stroke="#2a2e42"/>
+<text x="22" y="36" class="t">QuadCopter</text>
+<text x="22" y="62" class="s">Custom-built drone with no off-the-shelf flight</text>
+<text x="22" y="81" class="s">controller: ESP32 + MPU6050 IMU stabilization,</text>
+<text x="22" y="100" class="s">BLDC motors, ESCs and a FlySky RF link.</text>
+<rect x="22" y="126" width="47" height="20" rx="10" fill="#e7352c" fill-opacity=".15" stroke="#e7352c" stroke-opacity=".5"/><text x="46" y="140" text-anchor="middle" class="chip" fill="#e7352c">ESP32</text><rect x="75" y="126" width="60" height="20" rx="10" fill="#38bdae" fill-opacity=".15" stroke="#38bdae" stroke-opacity=".5"/><text x="105" y="140" text-anchor="middle" class="chip" fill="#38bdae">MPU6050</text><rect x="141" y="126" width="67" height="20" rx="10" fill="#bf91f3" fill-opacity=".15" stroke="#bf91f3" stroke-opacity=".5"/><text x="175" y="140" text-anchor="middle" class="chip" fill="#bf91f3">Embedded</text>
+<clipPath id="r"><rect x="22" y="158" width="376" height="6" rx="3"/></clipPath><g clip-path="url(#r)">
+<rect x="22.0" y="158" width="376.0" height="6" fill="#f34b7d"/>
+</g>
+<circle cx="27" cy="178" r="5" fill="#f34b7d"/><text x="38" y="182" class="m">C++ 100%</text>
+<text x="398" y="182" text-anchor="end" class="m">★ 2  ·  ⑂ 1</text>
+</svg>
