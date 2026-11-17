@@ -60,18 +60,18 @@
 ### 📊 GitHub stats
 
 <p align="center">
-  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile details" />
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" alt="Profile details" />
 </p>
 
 <p align="center">
-  <img height="170" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats" />
-  <img height="170" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most commit language" />
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="49%" alt="Stats" />
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" alt="Most commit language" />
 </p>
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SamyakBorkar/SamyakBorkar/output/github-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/SamyakBorkar/SamyakBorkar/output/github-snake.svg" alt="Snake eating my contribution graph" />
+    <img src="https://raw.githubusercontent.com/SamyakBorkar/SamyakBorkar/output/github-snake.svg" width="100%" alt="Snake eating my contribution graph" />
   </picture>
 </p>
 
