@@ -24,28 +24,6 @@
 
 ---
 
-### 👨‍💻 About me
-
-```go
-type Engineer struct {
-	Name       string
-	Role       string
-	Location   string
-	Focus      []string
-	Interests  []string
-	Hobbies    []string
-}
-
-var samyak = Engineer{
-	Name:       "Samyak Borkar",
-	Role:       "Software Engineer @ Credibl",
-	Location:   "Pune, India",
-	Focus:      []string{"Backend", "Elixir / Phoenix", "Go"},
-	Interests:  []string{"AI & RAG apps", "DevOps", "Fintech", "Open source"},
-	Hobbies:    []string{"Building drones 🚁", "Running robotics events 🤖"},
-}
-```
-
 ### 💼 Experience
 
 <p align="center">
@@ -82,20 +60,12 @@ var samyak = Engineer{
 ### 📊 GitHub stats
 
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=SamyakBorkar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trophies" />
-</p>
-
-<p align="center">
   <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile details" />
 </p>
 
 <p align="center">
   <img height="170" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats" />
   <img height="170" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most commit language" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SamyakBorkar&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
 <p align="center">
